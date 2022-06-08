@@ -18,3 +18,8 @@ var engaged = false
 var tuitionPaid = true
 
 var firstName = "Karen"
+var lastName = "Gibson"
+
+console.log(firstName);
+console.log(population);
+console.log(userName);
